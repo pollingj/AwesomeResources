@@ -30,13 +30,14 @@
 ## Communities
 
 ## Royal Academy of Engineering
+
 1. [Regional Talent Pre-Accelerator Programme](https://enterprisehub.raeng.org.uk/regional-talent-engines)
 
 ## BCS Communities
 
 1. [Safety Criticial Systems Club](https://scsc.uk/)
 2. [British Colloquium for Theoretical Computer Science](https://www.bctcs.ac.uk/)
-    - 2.1 [Stack Exchange](https://cstheory.stackexchange.com/)
+   - 2.1 [Stack Exchange](https://cstheory.stackexchange.com/)
 3. [London Mathematical Society](https://www.lms.ac.uk)
 4. [European Association for Theoretical Computer Science](https://eatcs.org/)
 5. [Open Source Specialist Group](https://ossg.bcs.org/)
@@ -44,6 +45,7 @@
 ## Events
 
 1. [Electromagnetic Field](https://www.emfcamp.org)
+
 ## United Kingdom
 
 1. [Aberdeen](#aberdeen)
@@ -104,7 +106,7 @@
 ## Cambridge <a name="cambridge"></a>
 
 1. [.NET Cambridge](https://www.meetup.com/dotnetcambridge/)
-    - 1.1 [.NET Cambridge Talk Playlist](https://www.youtube.com/c/AndreaAngella)
+   - 1.1 [.NET Cambridge Talk Playlist](https://www.youtube.com/c/AndreaAngella)
 2. [Cambridge Agile Exchange](https://www.meetup.com/cambridge-agile-exchange/)
 
 ## Edinburgh <a name="edinburgh"></a>
@@ -121,14 +123,15 @@
 
 ## Hull <a name="hull"></a>
 
-1. [The Codhead Club](https://github.com/codheadclub) 
+1. [The Codhead Club](https://github.com/codheadclub)
 2. [For Entrepreneurs Only](https://forentrepreneursonly.co.uk/) - Headquartered on UoH campus providing business mentoring and support.
-3. [C4Di](https://www.c4di.co.uk/) 
+3. [C4Di](https://www.c4di.co.uk/)
 4. [Barclays Eagle Labs](https://labs.uk.barclays/) (Nationwide)
 5. [Connected Humber Hardware Meetups](https://www.connectedhumber.org/meetups.html)
 6. [Hull Central Library Makerspace](https://www.hcandl.co.uk/libraries/makerspace/about-makerspacehull)
 7. [Hull Chamber of Commerce](https://www.hull-humber-chamber.co.uk/)
 8. [Lean Agile Hull](https://www.meetup.com/Lean-Agile-Hull/)
+9. [The Tech Sessions](https://www.eventbrite.co.uk/o/the-tech-sessions-90965763003)
 
 ## Leeds <a name="leeds"></a>
 
@@ -136,6 +139,7 @@
 2. [Umbraco Leeds Meetup](https://www.meetup.com/umbLeeds/)
 3. [M365 North User Group](https://www.meetup.com/m365-north/)
 4. [Regional Spotlight: Why Leeds is a hotbed for tech scaleups](https://www.uktech.news/partnership/regional-spotlight-leeds-tech-scaleups-hub-20230414)
+
 ## Liverpool <a name="liverpool"></a>
 
 1. [Dot NET Liverpool](https://www.meetup.com/Dot-NET-Liverpool/)
@@ -162,7 +166,7 @@
 1. [Manchester Azure & .NET Developer User Group](https://www.meetup.com/Manchester-Azure-Dot-NET-Meetup/)
 2. [Manchester Tech Festival](https://www.manchestertechfestival.co.uk/)
 3. [Dot Net North](https://www.meetup.com/DotNetNorth/)
-    - 3.1 [Dot Net North Youtube](http://youtube.com/DotNetNorth)
+   - 3.1 [Dot Net North Youtube](http://youtube.com/DotNetNorth)
 4. [Northern Azure User Group](https://www.meetup.com/Northern-Azure-User-Group/)
 5. [UK Azure Virtual Desktop User Group](https://www.meetup.com/UK-Windows-Virtual-Desktop-User-Group/)
 6. [Manchester Data Platform User Group](https://www.meetup.com/McrDataPlatform/)
@@ -184,9 +188,9 @@
 2. [Azure Cloud Native Data Platform User Group](https://www.meetup.com/azure-cloud-native-data-platform-user-group/)
 
 ## Oxford <a name="oxford"></a>
- 
+
 1. [.NET Oxford](https://www.meetup.com/dotnetoxford/)
-    - 1.1. [Website](https://www.dotnetoxford.com/)
+   - 1.1. [Website](https://www.dotnetoxford.com/)
 2. [Azure Oxford](https://www.meetup.com/Azure-Oxford/)
 
 ## Peterborough <a name="peterborough"></a>
@@ -213,6 +217,7 @@
 ## Stockport <a name="stockport"></a>
 
 1. [Lean Agile Stockport](https://www.meetup.com/Lean-Agile-Stockport/)
+
 ## Winnersh <a name="winnersh"></a>
 
 1. [Reading Microsoft Data & AI User Group](https://www.meetup.com/Reading-Microsoft-Data-Platform-User-Group/)
@@ -221,6 +226,7 @@
 
 1. [DC441905](https://dc441905.org/)
    - 1.1 [DC441905 Discord](https://discord.gg/rXvnkav)
+
 ## York <a name="york"></a>
 
 1. [dotnet York](https://www.meetup.com/dotnetYork/)
@@ -232,6 +238,7 @@
 7. [Tech York](https://techyork.uk/)
 
 ## Business / Career <a name="business"></a>
+
 1. [5 ways to help get into the games industry](https://www.linkedin.com/pulse/5-ways-help-you-get-job-games-industry-beginners-guy-derosa/)
 2. [Writing the ideal CV for the games industry](https://www.linkedin.com/pulse/writing-ideal-cv-games-industry-guy-derosa-1c/)
 3. [Network Yorkshire Linkedin Group](https://www.linkedin.com/groups/97127/)
